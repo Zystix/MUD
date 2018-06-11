@@ -1,0 +1,11 @@
+{
+  "name": "mud",
+  "version": "1.0.0",
+  "description": "a mud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian Moore",
+  "license": "ISC"
+}
